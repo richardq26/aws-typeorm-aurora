@@ -1,0 +1,25 @@
+{
+  "name": "typeorm",
+  "version": "1.0.0",
+  "description": "npm i typeorm-aurora-data-api-driver",
+  "main": "database.js",
+  "dependencies": {
+    "typeorm-aurora-data-api-driver": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "invoke": "sls invoke local -f hello",
+    "deploy": "sls deploy --stage dev --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardq26/aws-typeorm-aurora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardq26/aws-typeorm-aurora/issues"
+  },
+  "homepage": "https://github.com/richardq26/aws-typeorm-aurora#readme"
+}
